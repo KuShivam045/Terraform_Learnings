@@ -1,0 +1,11 @@
+/.venv
+/1_Modules\.terraform
+/1_Modules\.terraform.lock.hcl
+/1_Modules\terraform.tfstate.backup
+/3_Day_to_Day_Activity\.terraform
+/3_Day_to_Day_Activity\.terraform.lock.hcl
+/3_Day_to_Day_Activity\terraform.tfstate
+/3_Day_to_Day_Activity\terraform.tfstate.backup
+/2_StateFiles\.terraform
+/2_StateFiles\.terraform.lock.hcl
+/2_StateFiles\terraform.tfstate.backup
